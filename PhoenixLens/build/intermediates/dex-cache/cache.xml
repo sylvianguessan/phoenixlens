@@ -2,16 +2,22 @@
 <pre-dex-items>
 
     <item
-        dex="/Code/phoenixlens/PhoenixLens/PhoenixLensApp/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
-        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        dex="/Code/phoenixlens/PhoenixLens/PhoenixLensApp/build/intermediates/pre-dexed/debug/support-v4-19.0.0-368054dfda89bdffa0588ae338ee8c1cb3416107.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+        revision="19.1.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa"/>
     <item
-        dex="/Code/phoenixlens/PhoenixLens/PhoenixLensApp/build/intermediates/pre-dexed/debug/classes-c09a10a2f79179339e1454ad7c3da5726a545f3c.jar"
-        jar="/Code/phoenixlens/PhoenixLens/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        dex="/Code/phoenixlens/PhoenixLens/PhoenixLensApp/build/intermediates/pre-dexed/debug/classes-e1b4690afc0863eb8e5ad23cb1caa4e3d33bfd32.jar"
+        jar="/Code/phoenixlens/PhoenixLens/build/intermediates/exploded-aar/PhoenixLens.libraries/SlidingMenu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4010654980f9c3ff552312a5afad2edc1f6558b4"/>
+    <item
+        dex="/Code/phoenixlens/PhoenixLens/PhoenixLensApp/build/intermediates/pre-dexed/debug/classes-ffe9ca81922b90aa998eb4f052ee406b1748e307.jar"
+        jar="/Code/phoenixlens/PhoenixLens/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
 
 </pre-dex-items>

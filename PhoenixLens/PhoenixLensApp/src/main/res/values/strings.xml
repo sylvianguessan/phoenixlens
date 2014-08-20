@@ -4,5 +4,14 @@
     <string name="app_name">PhoenixLens</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="phoenix_lens_title">Phoenix Lens</string>
+
+    <string name="image_capture">Image Capture</string>
+    <string name="video_capture">Video Capture</string>
+    <string name="image_editing">Image Editing</string>
+    <string name="video_editing">Video Editing</string>
+    <string name="image_object_detection">Image Object Detection</string>
+    <string name="video_motion_detection">Video Motion Detection</string>
+
 
 </resources>

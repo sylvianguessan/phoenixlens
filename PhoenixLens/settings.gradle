@@ -1,1 +1,1 @@
-include ':PhoenixLensApp'
+include ':PhoenixLensApp', 'libraries:SlidingMenu'
